@@ -17,7 +17,8 @@ public class Block extends Element {
         STONE,
         SAND,
         DEATHBLOCK,
-        GOALBLOCK;
+        GOALBLOCK,
+        BLUE;
 
         private String filePath() {
             return "images/blocks/" + name().toLowerCase() + ".png";

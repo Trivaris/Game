@@ -14,19 +14,19 @@
 >- **Assets**
 >- **Collectables**
 >- **Dynamic Block Loading**
+>- **Death Screen**
+>- **Shop**
+>- **Level Design**
 
 💅 Need Polishing
 ---
 
 > [!IMPORTANT]
->- **Death Screen**
->- **Shop**
 
 🔨 In Progress
 ---
 
 > [!WARNING]
->- **Level Design**
 >- **Abilities**
 >- **Bug Fixes**
 
@@ -34,12 +34,13 @@
 ---
 
 > [!CAUTION]
-
+>- **Other Stuffs**
 
 How to use?
 ---
 
 1. Clone Project via Git
 2. Install Greenfoot v3.7
-3. Open Terminal in Directory
-4. run ```./gradlew runScenario```
+3. Use Java 11
+4. Open Terminal in Directory
+5. run ```./gradlew runScenario```
